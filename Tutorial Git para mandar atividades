@@ -1,0 +1,40 @@
+1. Criar a branch
+
+Dentro da pasta do projeto:
+
+*git checkout -b aulaNumero*
+
+2. Adicionar os arquivos
+
+*git add .*  --> Isso adiciona todos os .java (e outros arquivos)
+
+
+3. Fazer o commit
+
+*git commit -m "Melhorias calculadora - aulaNumero"*
+
+4. Dar push da branch
+
+*git push origin aulaNumero*
+
+5. Criar o Pull Request no GitHub
+
+-- Agora vai no site, entra no seu repositório, vai aparecer botão:
+
+"Compare & pull request"
+
+Clique e confere:
+
+base: main
+compare: aula03
+
+Clica em:
+"Create pull request"
+
+6. Copiar o link
+
+Vai ficar algo tipo:
+
+*https://github.com/seu-usuario/seu-repo/pull/1*
+
+Esse link você entrega!
