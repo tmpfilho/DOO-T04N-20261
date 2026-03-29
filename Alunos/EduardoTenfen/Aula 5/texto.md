@@ -4,7 +4,7 @@
 
 Os paradigmas de programação representam diferentes formas de pensar e estruturar a solução de problemas computacionais. Neste trabalho, será realizada uma comparação entre o paradigma imperativo, utilizando a linguagem Java, e o paradigma declarativo, utilizando a linguagem Prolog.
 
-O exemplo utilizado é um sistema de vendas de plantas, que realiza cálculos como preço total, troco e registro de vendas por data.
+O exemplo utilizado é um sistema de vendas de plantas da Dona Gabrielinha que foi exemplo de outras atividades até agora.
 
 # Paradigma Imperativo (Java)
 
