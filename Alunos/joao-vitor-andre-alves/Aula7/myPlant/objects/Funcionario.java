@@ -1,5 +1,3 @@
-package objects;
-
 public class Funcionario extends Pessoa {
 
     protected float salarioBase;
@@ -24,7 +22,7 @@ public class Funcionario extends Pessoa {
     }
 
     // METODOS
-        // APRESENTAÇÃO DO FUNCIONARIO
+    // APRESENTAÇÃO DO FUNCIONARIO
     public String apresentarSe() {
         return "Olá, meu nome é " + nome + " e eu tenho " + idade + " anos! Eu trabalho na loja" + loja;
     }

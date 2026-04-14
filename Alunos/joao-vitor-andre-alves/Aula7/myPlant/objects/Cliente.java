@@ -1,5 +1,3 @@
-package objects;
-
 public class Cliente extends Pessoa {
 
 	// METODOS

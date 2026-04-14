@@ -1,5 +1,3 @@
-package objects;
-
 public class Vendedor extends Funcionario {
 
 	// METODOS
