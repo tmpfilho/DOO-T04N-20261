@@ -18,5 +18,6 @@ public class Main {
         ProcessaPedido processador = new ProcessaPedido();
         processador.processar(pedido);
         System.out.println(pedido.gerarDescricaoVenda());
+        
     }
 }

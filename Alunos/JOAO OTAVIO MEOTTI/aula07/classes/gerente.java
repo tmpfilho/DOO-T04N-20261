@@ -25,5 +25,6 @@ public class Gerente extends Pessoa {
     }
     public double calcularBonus() {
         return salarioBase * 0.35;
+        
     }
 }

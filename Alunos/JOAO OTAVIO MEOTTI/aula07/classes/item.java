@@ -17,5 +17,6 @@ public class Item {
                 ", Nome: " + nome +
                 ", Tipo: " + tipo +
                 ", Valor: R$" + valor;
+
     }
 }

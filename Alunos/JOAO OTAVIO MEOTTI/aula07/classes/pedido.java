@@ -39,5 +39,6 @@ public class Pedido {
     }
     public void setDataPagamento(Date dataPagamento) {
         this.dataPagamento = dataPagamento;
+        
     }
 }

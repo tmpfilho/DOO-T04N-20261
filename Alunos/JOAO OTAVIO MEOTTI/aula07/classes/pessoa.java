@@ -6,5 +6,6 @@ public class Pessoa {
         this.nome = nome;
         this.idade = idade;
         this.endereco = endereco;
+        
     }
 }
